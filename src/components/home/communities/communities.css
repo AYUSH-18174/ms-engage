@@ -1,0 +1,8 @@
+.com-section-title {
+  font-size: 20px;
+}
+
+.com-scrollbar {
+  max-height: 600px;
+  overflow-y: scroll;
+}

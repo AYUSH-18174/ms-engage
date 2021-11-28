@@ -1,0 +1,37 @@
+.header {
+  box-shadow: 0 5px 20px var(--shadow);
+}
+.header-wrapper {
+  padding: 8px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-item {
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid var(--secondaryClr);
+  color: var(--primaryClr);
+  margin-right: 12px;
+}
+
+.nav-item:last-child {
+  margin-right: 0px;
+}
+
+.header-logo {
+  font-size: 32px;
+  color: var(--primaryClr);
+  font-weight: 700;
+}
+
+.active {
+  color: var(--white);
+  background: var(--primaryClr);
+}

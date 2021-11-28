@@ -1,0 +1,10 @@
+.sj-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+.saved-jobs-wrapper {
+  max-height: 320px;
+  overflow-x: scroll;
+}

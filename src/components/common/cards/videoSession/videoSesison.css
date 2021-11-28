@@ -1,0 +1,31 @@
+.vs-card {
+  border: 2px solid var(--secondaryClr);
+  display: flex;
+  align-items: center;
+  padding: 12px 4px;
+  margin: 8px 0px;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.vs-card-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.vs-card-info {
+  margin-left: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.vs-card-title {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.vs-card-count {
+  font-size: 12px;
+  color: var(--subText);
+}

@@ -1,0 +1,11 @@
+.newsfeed-wrapper {
+  display: flex;
+  width: 70%;
+  max-height: 90vh;
+  overflow-y: scroll;
+  flex-direction: column;
+}
+
+.newsfeed-posts {
+  padding: 24px 0px;
+}

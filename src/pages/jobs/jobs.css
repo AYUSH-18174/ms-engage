@@ -1,0 +1,11 @@
+.jobs-title {
+  font-size: 36px;
+  font-weight: 600;
+  padding: 16px 0px;
+}
+
+.jobs-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

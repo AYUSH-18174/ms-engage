@@ -1,0 +1,9 @@
+#root {
+  --primaryClr: #5367ff;
+  --secondaryClr: #98a4ff;
+  --white: #fff;
+  --shadow: rgba(146, 175, 123, 0.2);
+  --card-shadow: rgba(0, 0, 0, 0.1);
+  --gray: #f6f6f7;
+  --subText: #7c7e8c;
+}

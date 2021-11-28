@@ -1,0 +1,52 @@
+.post-avatar {
+  height: 50px;
+  width: 60px;
+}
+
+.post-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.post-card {
+  padding: 24px;
+  border-radius: 8px;
+  background-color: var(--gray);
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.post-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 24px;
+}
+
+.post-action-button {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  color: var(--secondaryClr);
+}
+
+.post-time {
+  color: var(--subText);
+  font-size: 12px;
+}
+
+.post-username {
+  font-size: 14px;
+}
+
+.post-text {
+  font-size: 14px;
+}
+
+.post-media {
+  width: 90%;
+  margin: 16px 0px;
+}

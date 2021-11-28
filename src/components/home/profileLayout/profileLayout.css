@@ -1,0 +1,46 @@
+.profile-card {
+  box-shadow: 0 1px 7px 0 var(--card-shadow);
+  width: 280px;
+  position: relative;
+  border-radius: 8px;
+  height: max-content;
+}
+
+.pl-cover {
+  width: 280px;
+  height: 100px;
+}
+
+.pl-avatar {
+  height: 75px;
+  position: absolute;
+  top: 50px;
+  left: 102px;
+}
+
+.pl-details {
+  margin-top: 20px;
+  padding: 8px;
+}
+
+.pl-username {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 8px 0px;
+}
+
+.pl-data-field {
+  display: flex;
+}
+
+.pl-data-icon {
+  color: var(--secondaryClr);
+}
+
+.pl-logout {
+  border: 1px solid var(--secondaryClr);
+  margin-top: 24px;
+  padding: 4px;
+  border-radius: 6px;
+}

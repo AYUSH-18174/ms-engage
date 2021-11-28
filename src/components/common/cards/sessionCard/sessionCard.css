@@ -1,0 +1,52 @@
+.session-card-wrapper {
+  background-color: var(--white);
+  box-shadow: 0 1px 7px 0 var(--card-shadow);
+  padding: 16px;
+  margin: 12px;
+  width: 280px;
+}
+
+.sc-logo {
+  height: 120px;
+  width: 120px;
+}
+
+.sc-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 8px 0px;
+}
+
+.sc-participants {
+  font-size: 14px;
+  color: var(--subText);
+  display: flex;
+  margin-bottom: 4px;
+}
+
+.sc-location {
+  color: var(--subText);
+  font-size: 14px;
+}
+
+.sc-domain {
+  border: 1px solid var(--secondaryClr);
+  padding: 4px 8px;
+  width: max-content;
+  border-radius: 6px;
+  font-size: 14px;
+  margin: 8px 0px;
+}
+
+.sc-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sc-btn {
+  width: 80%;
+  border: 1px solid var(--primaryClr);
+  padding: 6px 12px;
+  border-radius: 6px;
+}

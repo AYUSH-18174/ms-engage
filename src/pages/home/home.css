@@ -1,0 +1,11 @@
+.home-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 24px;
+}
+
+.home-newsfeed-wrapper {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
