@@ -2,7 +2,7 @@ export const jobsData = [
   {
     id: 1,
     name: "WazirX",
-    website: "https://careers.wazirx.com/jobs",
+    website: "https://jobs.wazirx.com/jobs",
     domain: "Fintech",
     logo: "https://media-exp1.licdn.com/dms/image/C4E0BAQG6QOG1s6Kocg/company-logo_100_100/0/1625126877427?e=1645660800&v=beta&t=YFGVuaeJJgKFH9PaO9nAbhxbF9b_wLWKsLcq4X6D7KY",
     location: "Mumbai",
